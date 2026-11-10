@@ -1,0 +1,18 @@
+{
+  "infodengue_baixado_em": "2026-11-09T21:26",
+  "populacao_baixada_em": "2026-11-09T21:27",
+  "municipios": 102,
+  "primeira_semana": 201501,
+  "ultima_semana": 202553,
+  "semanas_por_municipio": [
+    574
+  ],
+  "buracos_na_serie": 0,
+  "semanas_duplicadas": 0,
+  "casos_negativos": 0,
+  "anos_sem_populacao_ibge": [],
+  "percentual_de_nulos": {
+    "tempmed": 1.9,
+    "umidmed": 2.8
+  }
+}
